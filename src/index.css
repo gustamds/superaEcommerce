@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  opacity: 1;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+.slick-dots li.slick-active button:before, .slick-dots li button:before {
+  color: white;
+}
+
+
+html{
+  --tw-bg-opacity: 1;
+  background-color: rgb(15 23 42 / var(--tw-bg-opacity));
+}
