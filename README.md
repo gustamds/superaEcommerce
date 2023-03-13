@@ -14,8 +14,8 @@ para rodar a aplicação
 -O desconto é baseado no código, conforme o código que a pessoa digita ele aplica o desconto <br>
 -Os dados de frete e cupom de desconto estão juntos com os dados dos produtos na pasta data
 
-**Link da aplicação para fácil acesso**
-https://supera-ecommerce-tau.vercel.app/
+**Link da aplicação para fácil acesso** <br>
+https://supera-ecommerce-tau.vercel.app/ <br>
 **As imagens não estão aparecendo pois no deploy o caminho delas foram alteradas, para visualizar completamente, clone e rode a aplicação**
 
 **Segue imagens Desktop e Mobile da aplicação**
